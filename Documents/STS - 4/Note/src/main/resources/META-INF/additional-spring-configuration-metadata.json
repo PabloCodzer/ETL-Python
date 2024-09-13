@@ -1,5 +1,0 @@
-{"properties": [{
-  "name": "cors.originPaterns",
-  "type": "java.lang.String",
-  "description": "A description for 'cors.originPaterns'"
-}]}
